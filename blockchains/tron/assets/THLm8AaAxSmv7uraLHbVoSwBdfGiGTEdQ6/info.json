@@ -1,0 +1,9 @@
+{
+  "name": "Tether USD",
+  "symbol": "USDT",
+  "type": "TRC20",
+  "decimals": 6,
+  "website": "https://tether.to",
+  "status": "active",
+  "id": "THLm8AaAxSmv7uraLHbVoSwBdfGiGTEdQ6"
+}
